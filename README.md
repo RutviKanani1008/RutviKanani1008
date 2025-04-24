@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **JavaScript, NodeJS, NestJS, ReactJS, JAVA, MongoDB, PostgreSQL, Data Science, Machine Learning, Artificial Intelligence**
+- 💬 Ask me about **JavaScript, NodeJS, NestJS, ReactJS, JAVA, .Net C#, MongoDB, PostgreSQL, Data Science, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **rutvi.kanani1008@gmail.com**
 
